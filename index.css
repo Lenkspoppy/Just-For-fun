@@ -1,0 +1,14 @@
+#box{
+    height: 300px;
+    width: 300px;
+    background-color: lightgreen;
+    display: flex;
+    text-align: center;
+    font-weight: bold;
+    font-size: 4.5rem;
+    align-items: center;
+    justify-content: center; 
+    padding: 20px 40px;
+    border-radius: 150px 0 200px 50px;
+    box-shadow: 10px 10px 10px hsla(120, 82%, 28%, 0.651);
+}
